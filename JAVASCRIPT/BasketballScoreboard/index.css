@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(3, 3, 72);
+}
+
+.board{
+    margin-left: 20rem;
+    margin-right: 10rem;
+    margin-top: 6.4rem;
+    display: flex;
+}
+.container{
+    margin-right: 200px;
+}
+.display{
+    background-color: black;
+    height: 12rem;
+    width: 15rem;
+}
+
+
+.buttons{
+    margin-top: 20px;
+}
+#heading{
+    color: white;
+    font-size: 2.5em;
+    padding-left: 30px;
+}
+
+button{
+    background-color: rgb(3, 3, 72);
+    color: white;
+    border-color: white;
+    width:35px;
+    height: 30px;
+    margin-right: 12px;
+}
