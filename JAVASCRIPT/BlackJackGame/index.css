@@ -22,4 +22,7 @@ h1{
     font-weight: bold;
     width: 150px;
     border-radius: 2px;
+    display: block;
+    justify-self: center;
+    margin : 10px
 }
